@@ -11,8 +11,8 @@
         "visuals",
         "visualisations"
     ],
-    "topRow": 39,
-    "bottomRow": 71,
+    "topRow": 41,
+    "bottomRow": 73,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -31,7 +31,7 @@
         {"key": "fontFamily"},
         {"key": "customEChartConfig"}
     ],
-    "leftColumn": 0,
+    "leftColumn": 2,
     "customFusionChartConfig": {
         "type": "column2d",
         "dataSource": {
@@ -84,7 +84,7 @@
     "showDataPointLabel": false,
     "key": "r490czo1iv",
     "isDeprecated": false,
-    "rightColumn": 60,
+    "rightColumn": 62,
     "thumbnailSVG": "https://release-appcdn.appsmith.com/static/media/thumbnail.98fb19b2c4f99671c0888284cf939f3a.svg",
     "widgetId": "20n8s747d6",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
