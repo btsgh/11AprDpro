@@ -98,9 +98,9 @@
         "EditActions1"
     ],
     "dynamicPropertyPathList": [
-        {"key": "tableData"},
         {"key": "primaryColumns.EditActions1.isSaveDisabled"},
-        {"key": "primaryColumns.EditActions1.isDiscardDisabled"}
+        {"key": "primaryColumns.EditActions1.isDiscardDisabled"},
+        {"key": "tableData"}
     ],
     "displayName": "Table",
     "bottomRow": 38,
