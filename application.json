@@ -71,6 +71,10 @@
     {
       "id": "Page13",
       "isDefault": false
+    },
+    {
+      "id": "Template_table",
+      "isDefault": false
     }
   ],
   "viewMode": false,
