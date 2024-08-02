@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "6617627dba94485497a00882_661771491d47d819e4af1001",
+  "id": "Page10_JSObject1",
   "unpublishedCollection": {
     "name": "JSObject1",
     "pageId": "Page10",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Page10_JSObject1",
-  "deleted": false,
-  "gitSyncId": "6617627dba94485497a00882_661771491d47d819e4af1001"
+    "variables": []
+  }
 }
