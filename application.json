@@ -79,6 +79,10 @@
     {
       "id": "Page11",
       "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
