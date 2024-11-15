@@ -192,24 +192,6 @@
   "parentRowSpace": 10,
   "primaryColumnId": "_id",
   "primaryColumns": {
-    "_id": {
-      "borderRadius": "0px",
-      "boxShadow": "none",
-      "columnType": "text",
-      "computedValue": "{{data_table.processedTableData.map((currentRow, currentIndex) => ( currentRow._id))}}",
-      "enableFilter": true,
-      "enableSort": true,
-      "horizontalAlignment": "LEFT",
-      "id": "_id",
-      "index": 1,
-      "isCellVisible": true,
-      "isDerived": false,
-      "isVisible": true,
-      "label": "_id",
-      "textSize": "0.875rem",
-      "verticalAlignment": "CENTER",
-      "width": 150
-    },
     "customColumn1": {
       "borderRadius": "{{data_table.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.borderRadius.appBorderRadius)))}}",
       "boxShadow": "{{data_table.processedTableData.map((currentRow, currentIndex) => ( \"none\"))}}",
@@ -273,6 +255,7 @@
       "verticalAlignment": "CENTER",
       "width": 150
     },
+    "id": "[object Object]",
     "imdb_id": {
       "cellBackground": "",
       "columnType": "text",
