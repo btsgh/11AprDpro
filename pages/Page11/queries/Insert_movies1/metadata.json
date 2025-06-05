@@ -66,10 +66,10 @@
         "key": "formData.insert.documents.data"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Insert_movies1",
     "name": "Insert_movies1",
     "pageId": "Page11",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

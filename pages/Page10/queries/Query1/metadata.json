@@ -56,10 +56,10 @@
       "name": "Movies",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "fullyQualifiedName": "Query1",
     "name": "Query1",
     "pageId": "Page10",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

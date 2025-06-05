@@ -66,10 +66,10 @@
         "key": "formData.count.query.data"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "Total_record_movies1",
     "name": "Total_record_movies1",
     "pageId": "Page11",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

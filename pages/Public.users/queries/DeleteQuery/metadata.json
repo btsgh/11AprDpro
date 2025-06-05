@@ -22,9 +22,9 @@
       "name": "users",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Public.users",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
